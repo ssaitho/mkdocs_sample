@@ -2,3 +2,8 @@ site_name: My Docs
 
 theme:
   name: material
+  palette:
+    primary: custom
+
+extra_css:
+  - stylesheets/extra.css
