@@ -2,8 +2,21 @@ site_name: My Docs
 
 theme:
   name: material
+  features:
+    - content.code.copy ## コードコピー機能
   palette:
-    primary: custom
+    - scheme: default
+      primary: "teal"
+      accent: "pink"
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: ダークモードに切り替えます。
+    - scheme: slate
+      primary: "teal"
+      accent: "orange"
+      toggle:
+        icon: material/toggle-switch
+        name: ライトモードに切り替えます。
 
 extra_css:
   - stylesheets/extra.css
