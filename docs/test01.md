@@ -11,10 +11,10 @@
 - `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
 
 ```
-   <div class="radioWave">
-      <p>迷いの中あてなく見上げた空彩る星たちが</p>
-      <p>嘘みたいに晴れた朝に繋がることを教えてくれた</p>
-   </div>
+<div class="radioWave">
+  <p>迷いの中あてなく見上げた空彩る星たちが</p>
+  <p>嘘みたいに晴れた朝に繋がることを教えてくれた</p>
+</div>
 ```
 
 | Left align | Right align | Center align |

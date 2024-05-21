@@ -3,3 +3,9 @@
   --md-primary-fg-color--light: #bcdaf5;
   --md-primary-fg-color--dark:  #0039b3;
 }
+
+.md-grid {
+  margin-left: 32px;
+  margin-right: 32px;
+  max-width: 100%;
+}
